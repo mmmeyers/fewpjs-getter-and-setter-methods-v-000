@@ -26,6 +26,6 @@ class Circle {
   }
   
   set area(area) {
-    
+    this.radius = 
   }
 }
