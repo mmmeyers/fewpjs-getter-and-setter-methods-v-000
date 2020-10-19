@@ -10,6 +10,10 @@ class Circle {
   }
   
   get circumference() {
-    return (this.radius *2
+    return (this.radius *2) *pi;
+  }
+  
+  get area() {
+    return 
   }
 }
