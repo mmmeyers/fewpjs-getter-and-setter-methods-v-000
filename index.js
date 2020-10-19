@@ -14,6 +14,6 @@ class Circle {
   }
   
   get area() {
-    return 
+    return pi * ()
   }
 }
