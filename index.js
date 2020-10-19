@@ -18,6 +18,6 @@ class Circle {
   }
   
   set diameter(diameter) {
-    
+    this.radius 
   }
 }
