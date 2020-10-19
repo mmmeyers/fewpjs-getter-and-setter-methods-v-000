@@ -22,6 +22,6 @@ class Circle {
   }
   
   set circumference(circumference) {
-    
+    this.radius = circumference
   }
 }
