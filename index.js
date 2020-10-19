@@ -1,3 +1,3 @@
 class Circle {
-  radius = this.radius
+  constructor(radius) = this.radius
 }
